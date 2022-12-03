@@ -1,4 +1,4 @@
-# BMI_Calculator
+# BMI Calculator
 This program calculates the Body Mass Index (BMI) from a user's weight and height.
 
 This is one of my exercises from Udemy online Course: "100 Days of Code: The Complete Python Pro Bootcamp for 2022" by Dr. Angela Yu
